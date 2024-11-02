@@ -1,5 +1,4 @@
-# dream-job
-# [Project Name] 🎯
+# Dream Job🎯
 
 
 ## Basic Details
