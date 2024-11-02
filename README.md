@@ -2,82 +2,44 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Alphonsa Sooter's Team
 
 
 ### Team Members
 - Team Lead: Alphonsa Sooter - Mar Baselios Christian College of Engineering and Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+A fun tool that randomly suggests ridiculous dream jobs, like “Professional Cloud Observer” or “Underwater Basket Weaver.”
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Finding ridiculous dream jobs
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+this tool suggests ridiculous dream jobs
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python, HTML, CSS, JavaScript
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+pip install Flask
 
 # Run
-[commands]
+python app.py
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Capture](https://github.com/user-attachments/assets/ba18e9d7-6ccc-4677-ac0a-96427630a853)
+Home page
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Capture2](https://github.com/user-attachments/assets/742e2505-a0d1-44b2-9963-0c6872e74507)
+Suggests Dream Job
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Capture3](https://github.com/user-attachments/assets/0237f830-a3d9-47a2-84d9-32930f0ef0f5)
+Suggests second Dream job
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
